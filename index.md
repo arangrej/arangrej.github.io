@@ -22,7 +22,9 @@ concepts to full text. BMC bioinformatics Journal, 2011, Volume 12, Number 8, Pa
 
 ### Research projects
 * Improving clustering accuracy of short text documents : Project aimed to analyze and improve the clustering accuracy and purity by using post clustering framework as well as by adding external features collected from Wikipedia and WordNet to commonly used text features like TF-IDF and to analyze the results of K-means, SVD-based, and graph-based approaches like affinity propagation on short text data collected from Twitter.
-* Bio-Creative Competition : As a part of Bio-Creative–III competition, ​I contributed in a Protein-Protein Interaction (PPI) task under the guidance of Dr. Ashish Tendulkar. We developed a maximum entropy classifier for PPI abstract classification task. We used MESH terms provided along with the abstracts and PSI- MI ontology for feature extraction from title and abstracts. We developed a dictionary-based tagger for tagging mentions of PSI-MI concepts. This work was published in BMC Bio-Informatics 2011 Journal.      
+
+* Bio-Creative Competition : As a part of Bio-Creative–III competition, ​I contributed in a Protein-Protein Interaction (PPI) task under the guidance of Dr. Ashish Tendulkar. We developed a maximum entropy classifier for PPI abstract classification task. We used MESH terms provided along with the abstracts and PSI- MI ontology for feature extraction from title and abstracts. We developed a dictionary-based tagger for tagging mentions of PSI-MI concepts. This work was published in BMC Bio-Informatics 2011 Journal.
+
 * Hierarchical Cluster Labeling : Assigning appropriate labels to hierarchical clusters formed after iterative algorithm by using descriptive scores and mutual information between sibling clusters.
 
 ### Contact me
