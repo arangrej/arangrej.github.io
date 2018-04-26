@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/arangrej/arangrej.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am data enthusiast, love to build scalable and robust softwares, enjoy exploring new technologies.
+Completed post graduation from IIT Madras in Computer Science and Engineering in 2011.
+In spare time, I enjoy playing piano, tabla, cricket and explore nature. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Interested in research and building systems using Machine Learning, Statistics, Natural Language Processing and Computer Vision.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
+Aniket Rangrej, Sayali Kulkarni, and Ashish V. Tendulkar. 2011. Comparative study of clustering techniques for
+short text documents. In Proceedings of the 20th international conference companion on World wide web
+(WWW '11). ACM, New York, NY, USA, 111-112. DOI=10.1145/1963192.1963249
+http://doi.acm.org/10.1145/1963192.1963249
 
-1. Numbered
-2. List
+The Protein-Protein Interaction tasks of BioCreative III: classification/ranking of articles and linking bio-ontology
+concepts to full text. BMC bioinformatics Journal, 2011, Volume 12, Number 8, Page 1
 
-**Bold** and _Italic_ and `Code` text
+### Contact me
 
-[Link](url) and ![Image](src)
-```
+Mail ID : aniket.rangrej.18@gmail.com
+LinkedIn : https://www.linkedin.com/in/aniket-rangrej-0a661b20/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arangrej/arangrej.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
