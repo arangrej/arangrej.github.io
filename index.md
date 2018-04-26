@@ -20,7 +20,5 @@ http://doi.acm.org/10.1145/1963192.1963249
 concepts to full text. BMC bioinformatics Journal, 2011, Volume 12, Number 8, Page 1
 
 ### Contact me
-
-Email : aniket.rangrej.18@gmail.com
-
-LinkedIn : https://www.linkedin.com/in/aniket-rangrej-0a661b20/
+* Email : aniket.rangrej.18@gmail.com
+* LinkedIn : https://www.linkedin.com/in/aniket-rangrej-0a661b20/
